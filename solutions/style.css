@@ -1,0 +1,27 @@
+.color-pink {
+    color: #9e4486;
+}
+
+.color-pink:hover {
+    color: #c7a9bf;
+}
+
+.column {
+    float: left;
+}
+
+.left-small {
+    width: 14%;
+    height: 200vh;
+    background-color: #f6f6f6;
+    border-style: none solid none none;
+    border-color: #a7d7f9;
+}
+
+.tesla-pic {
+    width: 200px;
+}
+
+.profile-pic {
+    width: 200px;
+}
